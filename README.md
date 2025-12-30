@@ -16,11 +16,10 @@
 
 ### 👨‍💻 About Me
 
-- [cite_start]💼 I’m currently working as a **Mobile App Developer**.
-- [cite_start]📱 I specialize in **Native Android (Kotlin)** and **Hybrid Apps (Flutter)**[cite: 10, 11].
-- [cite_start]🌱 I’m currently exploring **Advanced Jetpack Compose & Modern Android Architecture**[cite: 5].
-- [cite_start]💬 Ask me about **Android Development, Dart, Firebase, and MVVM**.
-- ⚡ Fun fact: I enjoy building tools like **PhotoToPDFMaker** and Finance trackers!
+- 💼 I’m currently working as a **Mobile App Developer**.
+- 📱 I specialize in **Native Android (Kotlin)** and **Hybrid Apps (Flutter)**[cite: 10, 11].
+- 🌱 I’m currently exploring **Advanced Jetpack Compose & Modern Android Architecture**[cite: 5].
+- 💬 Ask me about **Android Development, Dart, Firebase, and MVVM**.
 
 <br>
 
@@ -30,9 +29,9 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" />
   </a>
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=android" alt="android" />
-  </a>
+  </a> -->
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" />
   </a>
@@ -47,9 +46,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=git" alt="git" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
     <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" />
