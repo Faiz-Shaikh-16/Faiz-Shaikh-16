@@ -12,13 +12,13 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 ### 👨‍💻 About Me
 
 - 💼 I’m currently working as a **Mobile App Developer**.
-- 📱 I specialize in **Native Android (Kotlin)** and **Hybrid Apps (Flutter)**[cite: 10, 11].
-- 🌱 I’m currently exploring **Advanced Jetpack Compose & Modern Android Architecture**[cite: 5].
+- 📱 I specialize in **Native Android (Kotlin)** and **Hybrid Apps (Flutter)**.
+- 🌱 I’m currently exploring **Flutter, Advanced Jetpack Compose & Modern Android Architecture**.
 - 💬 Ask me about **Android Development, Dart, Firebase, and MVVM**.
 
 <br>
@@ -54,8 +54,4 @@
 
 <br>
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faiz-Shaikh-16&show_icons=true&theme=tokyonight" alt="Faiz-Shaikh-16" />
-</p>
